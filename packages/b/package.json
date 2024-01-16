@@ -1,0 +1,9 @@
+{
+    "name": "b",
+    "scripts": {
+        "echo": "echo a"
+    },
+    "dependencies": {
+        "typescript": "^5.3.3"
+    }
+}

@@ -1,0 +1,4 @@
+{
+    "name": "vscode-package-manager-detection-repro",
+    "workspaces": ["./packages/*"]
+}
